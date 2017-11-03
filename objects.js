@@ -14,3 +14,7 @@ var playlist = { artistNames:'Steve',
 
 
 };
+ function removeFromPlaylist(playlist, artistName) {
+
+  return playlist
+};
